@@ -71,7 +71,7 @@ This project helped me practice:
 
 **Rewa Gupta**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Rewagupta
 
 ## ⭐ Support
 
